@@ -1,4 +1,9 @@
 # my-project2
-this is my git project2
+this is my git project2.
 <br>
-my name is asik saikh
+my name is asik saikh.
+<br>
+I am from malda in west bangal.
+
+This is my first project.
+
